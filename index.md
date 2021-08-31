@@ -18,21 +18,21 @@
  
 ## Education
 
-* ### Master of Science in Transportation Engineering
-  * #### San Diego State University (_2021-2023_)
+* #### Master of Science in Transportation Engineering
+  * ##### San Diego State University (_2021-2023_)
 
-* ### Bachelor of Science in Civil Engineering
-  * #### University of Tehran (_2015-2019_)
+* #### Bachelor of Science in Civil Engineering
+  * ##### University of Tehran (_2015-2019_)
 
 ## Research Interests
 
-* #### Human Behavior Modeling
-* #### Traffic Safety and Signal Operation
-* #### Connected and autonomous vehicles
-* #### Infrastructure-Based Safety Systems
-* #### Public transportation systems planning and design
-* #### Traffic Demand Modeling
-* #### Transportation Infrastructure Management
+* ##### Human Behavior Modeling
+* ##### Traffic Safety and Signal Operation
+* ##### Connected and autonomous vehicles
+* ##### Infrastructure-Based Safety Systems
+* ##### Public transportation systems planning and design
+* ##### Traffic Demand Modeling
+* ##### Transportation Infrastructure Management
 
 ## Honors and Awards
 
@@ -44,16 +44,16 @@
 
 ## Teaching Experiences
 
-* ### Teaching Assistant, Traffic Engineering, Dr. Abbas Babazadeh
-  * #### University of Tehran - September 2019 - February 2020
+* #### Teaching Assistant, Traffic Engineering, Dr. Abbas Babazadeh
+  * ##### University of Tehran - September 2019 - February 2020
 
-* ### Teaching Assistant, Project Evaluation and Cost Estimation, Dr. Hosein Taghaddos
-  * #### University of Tehran - December 2019 - September 2020
+* #### Teaching Assistant, Project Evaluation and Cost Estimation, Dr. Hosein Taghaddos
+  * ##### University of Tehran - December 2019 - September 2020
 
 ## Experiences and Memberships
 
-* ### Member of Environment Center of the University of Tehran (Student Association)
-  * #### Holding scientific seminars in the hope of finding useful solutions to environmental problems (February 2018 - June 2018)
+* #### Member of Environment Center of the University of Tehran (Student Association)
+  * ##### Holding scientific seminars in the hope of finding useful solutions to environmental problems (February 2018 - June 2018)
 
 ## Languages
 
@@ -65,7 +65,7 @@
 
 ## Hobbies and Interests
 
-* #### Running
-* #### Hiking
-* #### Listening to Music
-* #### Mountain climbing
+* ##### Running
+* ##### Hiking
+* ##### Listening to Music
+* ##### Mountain climbing
