@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# Welcome to Amir Reza Sadeghi's Website
 
-You can use the [editor on GitHub](https://github.com/Amir-Reza-Sadeghi/Amir-Reza-Sadeghi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://user-images.githubusercontent.com/89832611/131472979-a0d52866-2bf7-4866-a84b-f8970b8c408e.jpg" width="20%">
 
-### Markdown
+## Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+ **_Birth:_** 14 June 1997
+ 
+ **_Gender:_** Male
+ 
+ **_Marital Status:_** Single
+ 
+ **_Email:_** Asadeghi9142@sdsu.edu / Amirreza76Sadeghi@gmail.com
+ 
+ **_LinkedIn:_** www.linkedin.com/in/amirreza-sadeghi
+ 
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+* ### Master of Science in Transportation Engineering
+  * #### San Diego State University (_2021-2023_)
 
-- Bulleted
-- List
+* ### Bachelor of Science in Civil Engineering
+  * #### University of Tehran (_2015-2019_)
 
-1. Numbered
-2. List
+## Research Interests
 
-**Bold** and _Italic_ and `Code` text
+* #### Human Behavior Modeling
+* #### Traffic Safety and Signal Operation
+* #### Connected and autonomous vehicles
+* #### Infrastructure-Based Safety Systems
+* #### Public transportation systems planning and design
+* #### Traffic Demand Modeling
+* #### Transportation Infrastructure Management
 
-[Link](url) and ![Image](src)
-```
+## Honors and Awards
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* ### Full scholarship Grant of Ministry of Science, Research and Technology
+  * #### Granted full scholarship for being accepted in an undergraduate program, 2015-2019
 
-### Jekyll Themes
+* ### National Universities Entrance Exam
+  * #### Ranked among the Top 2 percent of Participants in the "National Universities Entrance Exam"(Konkur) in Mathematics and Physics, June 2015
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amir-Reza-Sadeghi/Amir-Reza-Sadeghi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Teaching Experiences
 
-### Support or Contact
+* ### Teaching Assistant, Traffic Engineering, Dr. Abbas Babazadeh
+  * #### University of Tehran - September 2019 - February 2020
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* ### Teaching Assistant, Project Evaluation and Cost Estimation, Dr. Hosein Taghaddos
+  * #### University of Tehran - December 2019 - September 2020
+
+## Experiences and Memberships
+
+* ### Member of Environment Center of the University of Tehran (Student Association)
+  * #### Holding scientific seminars in the hope of finding useful solutions to environmental problems (February 2018 - June 2018)
+
+## Languages
+
+**Persian:** _Native_
+
+**English:** _Fluent_
+
+**Arabic:** _Basic_
+
+## Hobbies and Interests
+
+* #### Running
+* #### Hiking
+* #### Listening to Music
+* #### Mountain climbing
