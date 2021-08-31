@@ -66,6 +66,6 @@
 ## Hobbies and Interests
 
 * ##### Running
-* ##### Hiking
+* ###### Hiking
 * ##### Listening to Music
 * ##### Mountain climbing
